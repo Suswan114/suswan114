@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Suswan114/suswan114/blob/main/Banner.png)]
+![MasterHead](https://github.com/Suswan114/suswan114/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Suswan Biswas</h1>
 <h3 align="center">Android developer, turning ideas into reality while sipping on a cup of Kotlin.</h3>
 
