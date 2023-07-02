@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **Android Applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Suswan114/](https://github.com/Suswan114/)
+- 👨‍💻 All of my projects are available at [@Suswan114/](https://github.com/Suswan114/)
 
 - 📫 How to reach me **suswan.biswas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bVfKknst_8XwTL-1_Tl3tvJ3Iwp5r61b/view?usp=sharing](https://drive.google.com/file/d/1bVfKknst_8XwTL-1_Tl3tvJ3Iwp5r61b/view?usp=sharing)
+- 📄 Know about my experiences:  [Resume](https://drive.google.com/file/d/1bVfKknst_8XwTL-1_Tl3tvJ3Iwp5r61b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
